@@ -1,7 +1,8 @@
-# TAAC 2026 Tencent Academic Track (0.831984开源方案，学术组69名)
+# TAAC 2026 Tencent Academic Track (0.831984开源方案，学术组67名)
 
 晚上八点压哨测试出分：**AUC = 0.831984**
-<img width="1310" height="284" alt="5ca91ca98445cebace75ffea784143b7" src="https://github.com/user-attachments/assets/53d91eb8-11c6-4b97-ade4-cbea4226adf7" />
+
+<img width="1291" height="280" alt="348b27448a8b98308dd7838e2d9e4c8c" src="https://github.com/user-attachments/assets/e9890365-e213-42be-9247-8a4e5fb8c786" />
 
 
 ## 核心模块
